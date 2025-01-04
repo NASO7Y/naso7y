@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi , Let's talk about me :
 i'm open to work
 
 
