@@ -1,5 +1,5 @@
 #  Hi , Let's talk about me :
-You are passionate about Data Science and Machine Learning, with a strong focus on Machine Learning, Deep Learning, Computer Vision, Problem Solving, and AI. I also thrive on creating innovative AI systems and solving complex challenges.
+I am passionate about Data Science and Machine Learning, with a strong focus on Machine Learning, Deep Learning, Computer Vision, Problem Solving, and AI. I also thrive on creating innovative AI systems and solving complex challenges.
 I am also open to work 
 
 
