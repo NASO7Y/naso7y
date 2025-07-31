@@ -1,5 +1,5 @@
 #  Hi, Let's talk about me 
-**I’m passionate about Automation, Data Science and Machine Learning, with a strong focus on Machine Learning, Deep Learning, Computer Vision, RAG Systems and NLP . I thrive on building AI systems that solve real-world challenges using tools like Hugging Face, LangChain, PyTorch, TensorFlow, OpenCV and SKlearn, Integrating models via FastAPI and Streamlit, I also enjoy working on LLM-based applications.**
+**I’m passionate about Automation, Data Science and Machine Learning, with a strong focus on Machine Learning, Deep Learning, Computer Vision, RAG Systems and NLP . I thrive on building AI systems that solve real-world challenges using tools like Hugging Face, LangChain, PyTorch, TensorFlow, OpenCV and SKlearn, Integrating models via FastAPI and Streamlit, Automation with n8n , Make.com, Zapier. I also enjoy working on LLM-based applications.**
 
 **I'm also Open To Work and Assist On Any Project, To reach out to me just Contact Me Anytime On LinkedIn**
 
