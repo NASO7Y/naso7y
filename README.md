@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://nos7y.vercel.app/">
+    <img src="https://raw.githubusercontent.com//NASO7Y/naso7y/blob/main/assets/noshy.svg" alt="Ahmed Noshy"/>
+  </a>
+</p>
+
 #  Hi, Let's talk about me 
 **I’m passionate about Automation, Data Science and Machine Learning, with a strong focus on Machine Learning, Deep Learning, Computer Vision, RAG Systems and NLP . I thrive on building AI systems that solve real-world challenges using tools like Hugging Face, LangChain, PyTorch, TensorFlow, OpenCV and SKlearn, Integrating models via FastAPI and Streamlit, Automation with n8n , Make.com, Zapier. I also enjoy working on LLM-based applications.**
 
