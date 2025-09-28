@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://nos7y.vercel.app/">
-    <img src="https://raw.githubusercontent.com//NASO7Y/naso7y/blob/main/assets/noshy.svg" alt="Ahmed Noshy"/>
+    <img src="https://raw.githubusercontent.com/NASO7Y/naso7y/blob/main/assets/noshy.svg" alt="Ahmed Noshy"/>
   </a>
 </p>
 
